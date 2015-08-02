@@ -3,6 +3,8 @@
         "name": "기본 질문",
         "countOfQs": 5,
         "uid": 10001,
-        "quids": "1,2,3"
+        "quids": "1,2,3",
+        "deleted": 0,
+        "updateDate": 1438500229784
     }
 ]
