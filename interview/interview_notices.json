@@ -1,11 +1,11 @@
 [
     {
-        "no": 1,
-        "title": "앱이 개발중입니다",
-        "subtitle": "2015. 8. 2",
-        "content": "앱스토어 출시 예정 (2015. 8월중)",
-        "priority": 0,
-        "deleted": 0,
-        "updatedDate": 1438500229784
+        "no": "1",
+        "title": "면접의 신 앱이 개발/테스트중입니다",
+        "subtitle": "2015. 8. 24",
+        "content": "앱스토어 출시 예정 (2015. 9월중)",
+        "priority": "0",
+        "deleted": "0",
+        "updatedDate": "1440401995000"
     }
 ]
